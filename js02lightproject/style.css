@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.firstdiv img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 350px;
+}
+
+.seconddiv {
+    margin: auto;
+}
