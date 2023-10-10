@@ -1,0 +1,11 @@
+.outerDiv {
+    background-color: cadetblue;
+    height: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.innerDiv {
+    color: white;
+}
