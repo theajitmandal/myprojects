@@ -1,0 +1,1 @@
+This project was created on 10th October 2023(Ashoj 23) on JS WEB API using fetch promises and async await.
