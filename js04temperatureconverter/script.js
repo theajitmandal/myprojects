@@ -24,4 +24,12 @@ const calculateTemp = () => {
         result = fehToCel(numberTemp);
         document.getElementById('resultContainer').innerHTML = `${result}Celsius`;
     }
+
+    if(valueTemp == 'cel'){
+        result = celToFah(numberTemp);
+        document.getElementById('resultContainer').innerHTML = `${result}Fahrenheit`;
+    }else{
+        result = fehToCel(numberTemp);
+        document.getElementById('resultContainer').innerHTML = `${result}Celsius`;
+    }
 }
